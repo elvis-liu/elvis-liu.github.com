@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 行者
-tagline: 行者无声，言者无行
+tagline: 言者无行，行者无声
 ---
 
 <ul class="posts">
